@@ -1,6 +1,8 @@
 ---
 title: GTFOBins
 
+theme: jekyll-theme-minimal
+
 exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md', '/CONTRIBUTING.md']
 
 permalink: pretty
